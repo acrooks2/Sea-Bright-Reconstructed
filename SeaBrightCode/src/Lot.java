@@ -1,4 +1,3 @@
-package floodresponse;
 
 /** 
 Class Lot is used for objects containing the landscape of the simulation

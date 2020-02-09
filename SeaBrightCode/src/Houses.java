@@ -1,4 +1,3 @@
-package floodresponse;
 
 /**
 	Class Houses is implemented to develop domiciles for occupant agents

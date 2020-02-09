@@ -1,4 +1,3 @@
-package floodresponse;
 
 //Class ABM contains the main method to run this simulation
 //

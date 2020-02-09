@@ -20,11 +20,10 @@ Click on Image to see a simulation run.
 [![Sea Bright](http://img.youtube.com/vi/1G0lCQGQSYE/0.jpg)](http://www.youtube.com/watch?v=1G0lCQGQSYE "Sea Bright")
 
 ## Whats in this Repository? 
-* MASON Code
+* [MASON Code](SeaBrightCode)
 * [Paper](SEA_BRIGHT_Wintersim.pdf)
 * [Overview, Design concepts, and Details (ODD) Document](SeaBrightODD.pdf)
 
 ## What is Needed to Run the Model?
-MASON
-The model source code (utilizing MASON Version 17) and
-
+MASON Version 17 (See Jars Folder)
+Java Version 1.8

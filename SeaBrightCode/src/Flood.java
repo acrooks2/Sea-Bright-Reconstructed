@@ -1,12 +1,9 @@
-package floodresponse;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
-
-import floodresponse.ABM;
 
 import sim.field.continuous.Continuous2D;
 import sim.util.Bag;

@@ -1,4 +1,3 @@
-package floodresponse;
 
 /**  This class provides functionality for the tide gauges (primarily storing gauge number, location and flood heights for each storm)
 **/

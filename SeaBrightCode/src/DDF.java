@@ -1,4 +1,3 @@
-package floodresponse;
 
 /**	The class DDF includes the water elevation vs damage level matrix for each building type
 **/

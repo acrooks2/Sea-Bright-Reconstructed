@@ -1,5 +1,3 @@
-package floodresponse;
-
 
 import java.awt.geom.Rectangle2D;
 

@@ -1,4 +1,3 @@
-package floodresponse;
 
 /** This Class provides the UI's for visualizing the simulation, currently only building locations and damage levels are presented
 /	

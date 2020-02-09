@@ -1,4 +1,3 @@
-package floodresponse;
 
 //Class Owner is implemented to develop the population and behaviors
 
